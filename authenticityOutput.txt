@@ -1,0 +1,119 @@
+Most authentic ingredients in NorthAmerican cousine:
+Ingredient name: butter	 Prevailance: 0.4115
+Ingredient name: egg	 Prevailance: 0.4030
+Ingredient name: wheat	 Prevailance: 0.3981
+Ingredient name: onion	 Prevailance: 0.2964
+Ingredient name: milk	 Prevailance: 0.2648
+Ingredient name: garlic	 Prevailance: 0.2432
+
+Most authentic pairs of ingredients in NorthAmerican cousine:
+Ingredients: egg, wheat	 Prevailance: 0.2758
+Ingredients: butter, wheat	 Prevailance: 0.2634
+Ingredients: butter, egg	 Prevailance: 0.2240
+Ingredients: wheat, milk	 Prevailance: 0.1771
+Ingredients: egg, milk	 Prevailance: 0.1672
+Ingredients: butter, milk	 Prevailance: 0.1594
+
+Most authentic triplets of ingredients in NorthAmerican cousine:
+Ingredients: butter, egg, wheat	 Prevailance: 0.1917
+Ingredients: egg, wheat, milk	 Prevailance: 0.1356
+Ingredients: egg, wheat, vanilla	 Prevailance: 0.1307
+Ingredients: butter, wheat, milk	 Prevailance: 0.1254
+Ingredients: butter, wheat, vanilla	 Prevailance: 0.1149
+Ingredients: butter, egg, vanilla	 Prevailance: 0.1097
+
+Most authentic ingredients in WesternEuropean cousine:
+Ingredient name: butter	 Prevailance: 0.5236
+Ingredient name: egg	 Prevailance: 0.4890
+Ingredient name: wheat	 Prevailance: 0.4795
+Ingredient name: onion	 Prevailance: 0.2694
+Ingredient name: milk	 Prevailance: 0.2601
+Ingredient name: cream	 Prevailance: 0.2402
+
+Most authentic pairs of ingredients in WesternEuropean cousine:
+Ingredients: butter, wheat	 Prevailance: 0.3555
+Ingredients: egg, wheat	 Prevailance: 0.3498
+Ingredients: butter, egg	 Prevailance: 0.3067
+Ingredients: egg, milk	 Prevailance: 0.1911
+Ingredients: wheat, milk	 Prevailance: 0.1889
+Ingredients: butter, milk	 Prevailance: 0.1738
+
+Most authentic triplets of ingredients in WesternEuropean cousine:
+Ingredients: butter, egg, wheat	 Prevailance: 0.2655
+Ingredients: egg, wheat, milk	 Prevailance: 0.1547
+Ingredients: butter, wheat, milk	 Prevailance: 0.1446
+Ingredients: butter, egg, milk	 Prevailance: 0.1299
+Ingredients: egg, wheat, cream	 Prevailance: 0.0999
+Ingredients: butter, wheat, cream	 Prevailance: 0.0980
+
+Most authentic ingredients in SouthernEuropean cousine:
+Ingredient name: olive_oil	 Prevailance: 0.6244
+Ingredient name: garlic	 Prevailance: 0.5209
+Ingredient name: tomato	 Prevailance: 0.3807
+Ingredient name: onion	 Prevailance: 0.3462
+Ingredient name: egg	 Prevailance: 0.2617
+Ingredient name: basil	 Prevailance: 0.2533
+
+Most authentic pairs of ingredients in SouthernEuropean cousine:
+Ingredients: olive_oil, garlic	 Prevailance: 0.4208
+Ingredients: olive_oil, tomato	 Prevailance: 0.2989
+Ingredients: garlic, tomato	 Prevailance: 0.2858
+Ingredients: olive_oil, onion	 Prevailance: 0.2541
+Ingredients: garlic, onion	 Prevailance: 0.2296
+Ingredients: tomato, onion	 Prevailance: 0.2068
+
+Most authentic triplets of ingredients in SouthernEuropean cousine:
+Ingredients: olive_oil, garlic, tomato	 Prevailance: 0.2348
+Ingredients: olive_oil, garlic, onion	 Prevailance: 0.1759
+Ingredients: olive_oil, garlic, basil	 Prevailance: 0.1646
+Ingredients: garlic, tomato, onion	 Prevailance: 0.1598
+Ingredients: olive_oil, tomato, onion	 Prevailance: 0.1587
+Ingredients: garlic, tomato, basil	 Prevailance: 0.1567
+
+Most authentic ingredients in LatinAmerican cousine:
+Ingredient name: cayenne	 Prevailance: 0.6664
+Ingredient name: onion	 Prevailance: 0.6522
+Ingredient name: garlic	 Prevailance: 0.5994
+Ingredient name: tomato	 Prevailance: 0.5407
+Ingredient name: corn	 Prevailance: 0.2974
+Ingredient name: cumin	 Prevailance: 0.2850
+
+Most authentic pairs of ingredients in LatinAmerican cousine:
+Ingredients: cayenne, onion	 Prevailance: 0.5125
+Ingredients: onion, garlic	 Prevailance: 0.4985
+Ingredients: cayenne, garlic	 Prevailance: 0.4839
+Ingredients: onion, tomato	 Prevailance: 0.4583
+Ingredients: cayenne, tomato	 Prevailance: 0.4379
+Ingredients: garlic, tomato	 Prevailance: 0.4216
+
+Most authentic triplets of ingredients in LatinAmerican cousine:
+Ingredients: cayenne, onion, garlic	 Prevailance: 0.4197
+Ingredients: cayenne, onion, tomato	 Prevailance: 0.3828
+Ingredients: onion, garlic, tomato	 Prevailance: 0.3782
+Ingredients: cayenne, garlic, tomato	 Prevailance: 0.3629
+Ingredients: onion, garlic, cumin	 Prevailance: 0.2154
+Ingredients: cayenne, garlic, cumin	 Prevailance: 0.2151
+
+Most authentic ingredients in EastAsian cousine:
+Ingredient name: soy_sauce	 Prevailance: 0.5404
+Ingredient name: garlic	 Prevailance: 0.5168
+Ingredient name: scallion	 Prevailance: 0.4726
+Ingredient name: cayenne	 Prevailance: 0.4004
+Ingredient name: sesame_oil	 Prevailance: 0.3730
+Ingredient name: rice	 Prevailance: 0.3376
+
+Most authentic pairs of ingredients in EastAsian cousine:
+Ingredients: garlic, scallion	 Prevailance: 0.3537
+Ingredients: soy_sauce, garlic	 Prevailance: 0.3370
+Ingredients: garlic, cayenne	 Prevailance: 0.3091
+Ingredients: soy_sauce, scallion	 Prevailance: 0.3001
+Ingredients: scallion, cayenne	 Prevailance: 0.2757
+Ingredients: garlic, sesame_oil	 Prevailance: 0.2691
+
+Most authentic triplets of ingredients in EastAsian cousine:
+Ingredients: garlic, scallion, cayenne	 Prevailance: 0.2439
+Ingredients: soy_sauce, garlic, scallion	 Prevailance: 0.2309
+Ingredients: garlic, scallion, sesame_oil	 Prevailance: 0.2050
+Ingredients: soy_sauce, garlic, sesame_oil	 Prevailance: 0.2050
+Ingredients: soy_sauce, scallion, sesame_oil	 Prevailance: 0.1815
+Ingredients: soy_sauce, garlic, cayenne	 Prevailance: 0.1815
